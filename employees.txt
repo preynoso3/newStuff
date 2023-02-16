@@ -1,0 +1,7 @@
+Jim - salesman
+Dwight -salesman
+Pam - receptionist
+Michael -Manager
+Oscar - Accountant
+Pedro - Cool Guy 
+Ezra - Stupid Guy 
